@@ -20,7 +20,7 @@ class Person(val firstName: String = "Peter", val lastName: String = "Parker") {
 
 
 //    val firstName: String = _firstName
-//    val lastName: String = _lastName
+//    val lastName: String = _lastName  
 
     //init block to iniatilize variables
 //    init {
