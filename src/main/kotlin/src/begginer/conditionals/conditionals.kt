@@ -80,13 +80,6 @@ fun main() {
 
     /** While condtions */
 
-    var y=1
-    while (y<=1){
 
-        println("$y")
-        y++
-    }
-
-    println("\nLoop is Done" )
 
 }
