@@ -17,5 +17,4 @@ fun main() {
     var divide = x % 5
 
     println(divide)
-
 }
