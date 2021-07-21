@@ -1,4 +1,4 @@
-package src.begginer.objects
+package src.oop.objects
 
 interface IdProvider {
     fun getId(): String

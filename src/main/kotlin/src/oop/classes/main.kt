@@ -1,4 +1,4 @@
-package src.begginer.classes
+package src.oop.classes
 
 
 fun main() {

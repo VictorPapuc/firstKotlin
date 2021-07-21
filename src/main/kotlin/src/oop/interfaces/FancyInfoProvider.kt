@@ -1,7 +1,7 @@
-package src.begginer.interfaces
+package src.oop.interfaces
 
 import src.BasicInfoProvider
-import src.begginer.classes.Person
+import src.oop.classes.Person
 
 //clases are by default closed in Kotlin to extend a class you need to add the open keyword
 class FancyInfoProvider : BasicInfoProvider() {

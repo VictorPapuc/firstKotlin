@@ -1,7 +1,7 @@
 package src
 
-import src.begginer.classes.Person
-import src.begginer.interfaces.FancyInfoProvider
+import src.oop.classes.Person
+import src.oop.interfaces.FancyInfoProvider
 
 interface PersonInfoProvider {
     val provideInfo: String;
